@@ -1,1 +1,1 @@
-this file is in progress
+This readme file is under development
